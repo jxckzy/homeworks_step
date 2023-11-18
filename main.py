@@ -1,1 +1,1 @@
-print('Hello there! These are all of my homeworks that I\'ve done so far. I will keep you updated!')
+print('Hello. This is my first project attached to a GitHub. Stay tuned for more.')
